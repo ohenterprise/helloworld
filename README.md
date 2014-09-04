@@ -6,6 +6,6 @@ helloworld
 int main()
 { 
     cout << "Hello";
-    return 0;
+    return 1;
 }
 
